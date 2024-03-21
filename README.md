@@ -178,7 +178,7 @@ if __name__ == "__main__":
 ```
 ## OUTPUT:
 
-<![image](https://github.com/sanjay3061/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/121215929/14ba98c3-44fb-43b9-a827-8d222eee050f)
+![image](https://github.com/hemanth2110/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/121078629/dcd2b231-5431-494a-b2bd-4563f216acb9)
 
 
 ## RESULT: 
@@ -235,8 +235,8 @@ key = b"abcdefgh"
 cipher = Cipher(algorithms.TripleDES(key), modes.ECB(), backend=default_backend())
 
 
-plaintext = b"Sanjay"
-print("plaintext: Sanjay")
+plaintext = b"babu"
+print("plaintext: babu")
 
 padded_plaintext = pad(plaintext)
 
@@ -263,7 +263,7 @@ print("Decrypted Text:", decrypted_plaintext.decode('utf-8'))
 
 ```
 ## OUTPUT:
-![image](https://github.com/sanjay3061/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/121215929/a0b8bdbf-d93c-454b-8e3e-3b821aaace3f)
+![Uploading image.png…]()
 
 
 ## RESULT:
