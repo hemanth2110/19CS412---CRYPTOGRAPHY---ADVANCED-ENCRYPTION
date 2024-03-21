@@ -263,7 +263,8 @@ print("Decrypted Text:", decrypted_plaintext.decode('utf-8'))
 
 ```
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/hemanth2110/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/121078629/6de35a39-ef1a-4925-91fd-8202f10b72a2)
+
 
 
 ## RESULT:
