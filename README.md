@@ -63,7 +63,7 @@ def main():
     p = 61
     q = 53
     public_key, private_key = generate_keypair(p, q)
-    message = "Sanjay"
+    message = "babu"
     encrypted_message = encrypt(public_key, message)
     decrypted_message = decrypt(private_key, encrypted_message)
     print("Original message:", message)
