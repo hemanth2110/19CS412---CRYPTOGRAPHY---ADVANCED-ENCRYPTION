@@ -76,7 +76,7 @@ if __name__ == "__main__":
 
 ```
 ## OUTPUT:
-![image](https://github.com/sanjay3061/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/121215929/564d3ea8-8459-4eb1-90e8-d6144f1a7c15)
+![image](https://github.com/hemanth2110/19CS412---CRYPTOGRAPHY---ADVANCED-ENCRYPTION/assets/121078629/fa3fd884-93ae-47c7-b359-2ea529be1a06)
 
 
 ## RESULT :
